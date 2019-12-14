@@ -15,5 +15,7 @@ int main(){
 	cout << "Memoria da variavel pFlutuante: " << sizeof(pFlutuante) << endl;	
 	cout << "Memoria da variavel c:          " << sizeof(c)          << endl;	
 	
+	system("pause");
+	
 	return 0;
 }

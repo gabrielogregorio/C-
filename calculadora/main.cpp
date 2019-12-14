@@ -35,6 +35,7 @@ int main(){
 	} else if (operacao == 'd'){
 		cout << "A divisão entre " << num1 << " e " << num2 << " é: " << num1 / num2;
 	}
-    return 0;
-
+	
+	system("pause");
+    return 0;    
 }

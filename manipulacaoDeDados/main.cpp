@@ -1,7 +1,5 @@
 #include <iostream>
-
-// regionalização das coisas, inclusive acentuação e datas
-#include <locale.h>
+#include <locale.h> // regionalização das coisas, inclusive acentuação e datas
 
 using namespace std;
 
@@ -15,7 +13,7 @@ int main(){
 	
 	cout << "O número digitado e: " << num1 << endl;
 
-	
+    system("pause");
 	return 0;
 	
 }

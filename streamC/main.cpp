@@ -22,5 +22,7 @@ int main(){
 	// Nosso campo terá 1000 caracteres
 	cout << setw(1000) << 10 + 50 << endl;
 	
+	system("pause");
+	
 	return 0;
 }
